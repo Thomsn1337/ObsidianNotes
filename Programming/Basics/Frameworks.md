@@ -1,0 +1,3 @@
+# Frameworks
+
+A framework can be seen as a structured foundation or skeleton that provides reusable sets of tools, libraries and conventions to simplify the development of software applications. It defines a structure to streamline and simplify development by providing common functionalities, design patterns and best practices. The aim is to reduce repetitive coding, enhance code maintainability and readability, promote consistency and ensure scalability.

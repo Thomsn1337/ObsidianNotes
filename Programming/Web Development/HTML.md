@@ -1,0 +1,3 @@
+# HTML
+
+HTML (HyperText Markup Language) is the most basic building block of the web. It is the fundamental technology used in web applications to define their structure and presentation. HTML is not a programming language; it is a markup language used to describe the the structure of web documents. It uses tags to describe text, images, videos, links and many other elements. HTML is almost never used alone, it is typically used in combination with [CSS](CSS.md) to apply styling to the contents and with [JavaScript](JavaScript.md) to add interactivity.

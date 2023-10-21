@@ -1,0 +1,3 @@
+# JavaScript
+
+JavaScript is a versatile and widely used programming language. It is mostly used to add interactivity and dynamic content to webpages. JavaScript gives you the ability to dynamically manipulate both the [HTML](HTML.md) content and the [CSS](CSS.md) styles on a webpage. The main method to achieve this is by listening for specific events (e.g. a click on a button). Triggering such an event causes a specific part of the JavaScript code to be executed. It is also the main tool to connect the front-end with the server-side logic of a web app.
