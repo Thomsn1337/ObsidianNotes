@@ -4,4 +4,4 @@ Back-end developers create the server-side components and functionalities that p
 
 ## Technologies
 
-Back-end developers use many different tools and technologies. They can use many different programming languages like [JavaScript](JavaScript.md), [Python](Python.md), Ruby or C# and corresponding [frameworks](Frameworks.md) to implement server-side logic. They also have to know about data management and storage using [Databases](Databases.md), hosting and web servers and many more concepts.
+Back-end developers use many different tools and technologies. They can use many different programming languages like [JavaScript](JavaScript.md), Python, Ruby or C# and corresponding [frameworks](Frameworks.md) to implement server-side logic. They also have to know about data management and storage using [Databases](Databases.md), hosting and web servers and many more concepts.
