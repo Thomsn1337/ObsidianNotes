@@ -34,5 +34,12 @@ A remote is a link from your local repo to a remote repo which is usually stored
 
 ---
 
+- `git branch <branch_name>`: Creates a new branch
+- `git checkout <branch_name>`: Switches to the selected branch
+- `git branch -d <branch_name>`: Deletes the selected branch
+- `git checkout -b <branch_name>`: Shortcut to create a new branch and switch to it
+
+---
+
 - `git push`: Pushes all local commits to the remote
 - `git pull`: Pulls all changes on the remote to the local repo
