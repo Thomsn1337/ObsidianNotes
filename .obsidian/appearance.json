@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Catppuccin",
   "baseFontSize": 16,
-  "showViewHeader": false
+  "showViewHeader": false,
+  "textFontFamily": "Fira Sans"
 }

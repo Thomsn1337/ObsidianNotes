@@ -1,0 +1,3 @@
+# Full-stack development
+
+Full-stack developers possess expertise in both [Front-end Development](Front-end%20Development.md) and [Back-end Development](Back-end%20Development.md). This skillset allows them to work on all aspects of a web application, which makes them valuable for development teams and projects. Full-stack developers have comprehensive knowledge of various technologies and [frameworks](Frameworks.md) used in all areas of web and software development. They are capable of designing, developing and maintaining both the user interface and the server-side logic of an application, as well as data management and many other skills related to software development and infrastructure.

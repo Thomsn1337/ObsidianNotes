@@ -1,3 +1,0 @@
-# Web Development
-
-Web development is the process of creating and maintaining websites and web applications. It encompasses various tasks, including designing the user interface, coding the functionality, and ensuring the site's performance and security. Web developers use programming languages, frameworks, and tools to bring websites to life on the internet. Web Developers are categorised in [Front-end Developers](Front-end%20Development.md), [Back-end Developers](Back-end%20Development.md) and [Full-stack Developers](Full-stack%20Development.md).
