@@ -19,7 +19,7 @@ There are multiple ways to run JavaScript code. One way is running it in the bro
 	<body>
 		<script>
 			// Your JavaScript goes here!
-			console.log("Hello, World!")
+			console.log("Hello, World!");
 		</script>
 	</body>
 </html>
@@ -37,5 +37,5 @@ There are multiple ways to run JavaScript code. One way is running it in the bro
 ```js
 //index.js
 
-console.log("Hello, world!")
+console.log("Hello, world!");
 ```

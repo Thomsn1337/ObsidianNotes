@@ -1,6 +1,6 @@
 # The Box Model
 
-Every element on a web page is a rectangular box. Boxes can contain other boxes and can sit alongside other boxes. 
+The box model is a very important concept to understand positioning and layout in [CSS](css.md). Basically, every element on a web page is a rectangular box. Boxes can contain other boxes and can sit alongside other boxes. 
 
 ![](box_model.png)
 
