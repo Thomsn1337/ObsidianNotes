@@ -50,3 +50,12 @@ c = false; // TypeError: invalid assignment to const 'c'
 ```
 
 `let` and `const` are relatively new methods to declare variables in JavaScript and it's recommended to use them over `var`. Using `var` should be avoided as much as possible.
+
+## Variable name limitations
+
+There are certain limitations when creating variable names:
+- **Naming conventions**: Variables should have meaningful and descriptive names to make code more readable and maintainable. When using multiple words for a name, either `camelCase` or `snake_case` should be used. Only one of these styles should be used in a project and they shouldn't be mixed up.
+- **Starting characters**: Variable names must start with a letter, an underscore or a dollar sign. They can't start with a number.
+- **Allowed characters**: Variable names can include letters, numbers, underscores and dollar signs. Other special characters, for example Unicode characters are possible, but should not be used to avoid confusion.
+- **Reserved words**: Reserved language keywords (such as `let`, `const`, `for`...) can not be used as variable names.
+- **Case sensitivity**: Variable names in JavaScript are case-sensitive. `myVar`, `MyVar` and `myvar` would be treated as three different variables.

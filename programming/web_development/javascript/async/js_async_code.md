@@ -1,0 +1,3 @@
+# Asynchronous code
+
+Since [JavaScript](javascript.md) is the language of the web, there are some [functions](js_functions.md) that by necessity are going to take a decent amount of time to complete, such as fetching data from a server. Because of this, JavaScript introduced support for **asynchronous functions**, or functions that can happen in the background while the rest of the program executes.
