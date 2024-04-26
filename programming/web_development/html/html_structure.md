@@ -1,6 +1,6 @@
 # Basic structure
 
-All [html](html.md) documents have the same basic structure. The "homepage" of every website is called `index.html`, because web servers look for this file by default when the site gets accessed. Every HTML document contains some default (boilerplate) code with different [elements](html_elements_tags.md), which looks like this:
+All [HTML](html.md) documents have the same basic structure. The "homepage" of every website is called `index.html`, because web servers look for this file by default when the site gets accessed. Every HTML document contains some default (boilerplate) code with different [elements](html_elements_tags.md), which looks like this:
 
 ```html
 <!doctype html>
@@ -38,7 +38,7 @@ The `<title>` element defines the title of the page, which will also be displaye
 
 ### Link element
 
-The `<link>` element is used to link to different external resources, most commonly used to link to a [css](css.md) file which contains styling.
+The `<link>` element is used to link to different external resources, most commonly used to link to a [CSS](css.md) file which contains styling.
 
 ## Body element
 

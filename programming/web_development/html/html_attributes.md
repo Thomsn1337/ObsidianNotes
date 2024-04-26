@@ -4,7 +4,7 @@
 
 ## Class
 
-The `class` attribute is used to group elements together by assigning a class to them. This can be useful to define [css](css.md) rules which target only elements with certain classes, or to apply [javascript](javascript.md) functionality to multiple elements without having to repeat code. Classes can be reused in the document.
+The `class` attribute is used to group elements together by assigning a class to them. This can be useful to define [CSS](css.md) rules which target only elements with certain classes, or to apply [JavaScript](javascript.md) functionality to multiple elements without having to repeat code. Classes can be reused in the document.
 
 ## ID
 

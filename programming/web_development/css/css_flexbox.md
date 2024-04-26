@@ -1,6 +1,6 @@
 # Flexbox
 
-Flexbox is a [css](css.md) layout model, which makes it easier to create more complex and responsive layouts in web applications. It allows to turn any [HTML element](html_elements_tags.md) into a so called "Flex Container".
+Flexbox is a [CSS](css.md) layout model, which makes it easier to create more complex and responsive layouts in web applications. It allows to turn any [HTML element](html_elements_tags.md) into a so called "Flex Container".
 
 ## Flex container
 

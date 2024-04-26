@@ -6,7 +6,7 @@ There are three ways to create (declare) variables in JavaScript:
 
 - `var` is used to create mutable variables, meaning their value **can** be reassigned
 - `let` is also used to create mutable variables
-- `const` is used to create a constant variable, meaning their value **can't** be reassigned
+- `const` is used to create a constant variable, meaning their value **can't** be reassigned. Creating an [array](js_arrays.md) or [object](js_objects.md) with `const` doesn't actually create a constant array/object, it creates a constant reference to them. The properties of the created array/object can still be changed.
 
 ## Declaring variables
 

@@ -1,6 +1,6 @@
 # Elements and Tags
 
-All [html](html.md) pages consist of different types of **elements**. An element is basically a piece of content wrapped inside an opening and closing **HTML tag**.
+All [HTML](html.md) pages consist of different types of **elements**. An element is basically a piece of content wrapped inside an opening and closing **HTML tag**.
 
 An opening Tag consists of a keyword enclosed by angled brackets `<>`. A closing tag looks the same, but has a slash before the keyword `</>`. The content of the element is placed between the opening and the closing tag.
 
@@ -34,4 +34,3 @@ Some of the most important tags are:
 | `<img>`           | Displays an image on the page                                                                                                   |
 | `<button>`        | Creates a clickable button                                                                                                      |
 | `<script>`        | Used to embed [javascript](javascript.md) code either directly in the HTML document, or to link to an external JavaScript file. |
-|                   |                                                                                                                                 |

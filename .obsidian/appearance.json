@@ -3,5 +3,7 @@
   "cssTheme": "Catppuccin",
   "baseFontSize": 16,
   "showViewHeader": false,
-  "textFontFamily": "Fira Sans"
+  "textFontFamily": "Fira Mono,Fira Sans",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "nativeMenus": true
 }

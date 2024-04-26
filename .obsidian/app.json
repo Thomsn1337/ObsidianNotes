@@ -7,5 +7,7 @@
   "showLineNumber": true,
   "trashOption": "none",
   "showUnsupportedFiles": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "vimMode": true,
+  "attachmentFolderPath": "images"
 }
