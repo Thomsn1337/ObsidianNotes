@@ -1,8 +1,8 @@
 # DOM manipulation in JavaScript
 
-[JavaScript](javascript.md) allows to interact with [the DOM](html_dom.md). It allows to select specific nodes from the DOM by using the `document.querySelector()` function.
+[JavaScript](javascript.md) allows to interact with [the DOM](../../html/html_dom.md). It allows to select specific nodes from the DOM by using the `document.querySelector()` function.
 
-This function can be used to select a specific DOM node by providing a selector as its parameter. This selector can consist of a combination of [CSS selectors](css.md#selectors) and [relationship combinators](css_combinators.md).
+This function can be used to select a specific DOM node by providing a selector as its parameter. This selector can consist of a combination of [CSS selectors](../../css/css.md#Selectors) and [relationship combinators](../../css/css_combinators.md).
 
 ```html
 <!-- index.html -->

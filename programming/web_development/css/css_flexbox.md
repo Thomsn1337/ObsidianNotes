@@ -1,6 +1,6 @@
 # Flexbox
 
-Flexbox is a [CSS](css.md) layout model, which makes it easier to create more complex and responsive layouts in web applications. It allows to turn any [HTML element](html_elements_tags.md) into a so called "Flex Container".
+Flexbox is a [CSS](css.md) layout model, which makes it easier to create more complex and responsive layouts in web applications. It allows to turn any [HTML element](../html/html_elements_tags.md) into a so called "Flex Container".
 
 ## Flex container
 
@@ -27,7 +27,7 @@ div.container {
 
 By doing this, the main axis is aligned vertically and the cross axis horizontally.
 
-![](flex_axes.png)
+![](../../../images/flexbox/flex_axes.png)
 
 All children will be positioned on these two axes according to two simple rules:
 
@@ -42,27 +42,27 @@ The `justify-content` property can be used to change the alignment of the flex i
 
 - `flex-start`: All items are grouped together at the start of the container. This is the default value.
 
-![](justify_flex_start.png)
+![](../../../images/flexbox/justify_flex_start.png)
 
 - `center`: All items are grouped together in the center of the container.
 
-![](justify_center.png)
+![](../../../images/flexbox/justify_center.png)
 
 - `flex-end`: All items are grouped together at the end of the container.
 
-![](justify_flex_end.png)
+![](../../../images/flexbox/justify_flex_end.png)
 
 - `space-between`: Items are spread across the main axis with even spacing between each item. There is no spacing at the borders of the container.
 
-![](space_between.png)
+![](../../../images/flexbox/space_between.png)
 
 - `space-around`: The space around each item is distributed evenly, each item has the same space around it. The space before the first item and after the last item is half the space between items.
 
-![](space_around.png)
+![](../../../images/flexbox/space_around.png)
 
 - `space-evenly`: Creates equal space between the items, as well as between the container edges and the outermost items.
 
-![](space_evenly.png)
+![](../../../images/flexbox/space_evenly.png)
 
 ## Alignment - cross axis
 
@@ -70,23 +70,23 @@ As opposed to the main axis, the cross axis is used to align individual items. T
 
 - `stretch`: The items stretch to fill out the entire cross axis. This is the default value.
 
-![](align_stretch.png)
+![](../../../images/flexbox/align_stretch.png)
 
 - `flex-start`: The items are aligned at the start of the cross axis.
 
-![](align_flex_start.png)
+![](../../../images/flexbox/align_flex_start.png)
 
 - `center`: The items are aligned in the center of the cross axis.
 
-![](align_center.png)
+![](../../../images/flexbox/align_center.png)
 
 - `flex-end`: The items are aligned at the end of the cross axis.
 
-![](align_flex_end.png)
+![](../../../images/flexbox/align_flex_end.png)
 
 - `baseline`: The items are aligned across the baseline, which is the first line of text inside the items. This can be useful to align multiple different font sizes.
 
-![](align_baseline.png)
+![](../../../images/flexbox/align_baseline.png)
 
 ## Alignment - container and items
 
@@ -108,7 +108,7 @@ div#first-item {
 }
 ```
 
-![](align_self.png)
+![](../../../images/flexbox/align_self.png)
 
 ## Wrapping
 

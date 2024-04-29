@@ -2,7 +2,7 @@
 
 Promises are another way to handle [asynchronous code](js_async_code.md), which is often used by libraries or frameworks.
 
-A promise is essentially a special type of [object](js_objects.md), that might produce a value at some point in the future. Lets say we have a [function](js_functions.md) called `getData` that fetches some data from a server and returns it as an object:
+A promise is essentially a special type of [object](../objects/js_objects.md), that might produce a value at some point in the future. Lets say we have a [function](../basics/js_functions.md) called `getData` that fetches some data from a server and returns it as an object:
 
 ```js
 function getData() {

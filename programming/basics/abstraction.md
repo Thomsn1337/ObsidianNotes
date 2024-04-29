@@ -1,7 +1,7 @@
 
 # Abstraction
 
-Abstraction is a fundamental concept of programming which involves simplifying complex systems and breaking them down into smaller, more manageable parts. It also involves hiding unnecessary details about the implementation of a feature and only exposing relevant and required information. It is one of the most important and essential principles of [object_oriented_programming](object_oriented_programming.md).
+Abstraction is a fundamental concept of programming which involves simplifying complex systems and breaking them down into smaller, more manageable parts. It also involves hiding unnecessary details about the implementation of a feature and only exposing relevant and required information. It is one of the most important and essential principles of [object-oriented programming](object_oriented_programming.md).
 
 Abstraction is based on the principle that a user does not need to know every detail about the implementation of a feature, in reality he only has to know how to use it. This allows to hide this unnecessary information from the user. This allows programmers to work with higher-level representations of data and functionality rather than having to deal with lower-level implementations.
 

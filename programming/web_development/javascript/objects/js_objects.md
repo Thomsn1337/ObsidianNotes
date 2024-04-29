@@ -1,10 +1,10 @@
 # Objects
 
-Objects are the only [data type](js_data_types.md) that is considered "non-primitive". All the other data types can only store a single value.
+Objects are the only [data type](../basics/js_data_types.md) that is considered "non-primitive". All the other data types can only store a single value.
 
 In contrast, objects can store various data and even more complex entities and structures in a `key/value` relationship.
 
-An object can be created by using curly braces `{}` containing an optional list of *properties*. A property is a `key/value` pair, where the `key` (also known as property name) has to be a `string`, and the `value` can be anything, even a [function](js_functions.md) or another object.
+An object can be created by using curly braces `{}` containing an optional list of *properties*. A property is a `key/value` pair, where the `key` (also known as property name) has to be a `string`, and the `value` can be anything, even a [function](../basics/js_functions.md) or another object.
 
 An empty object is created like this:
 
@@ -29,7 +29,7 @@ const user = {
 There are four main ways to access the properties of an object:
 - Dot notation
 - Bracket notation
-- Using [variables](js_variables.md) as property names
+- Using [variables](../basics/js_variables.md) as property names
 - Object destructuring
 
 ### Dot notation

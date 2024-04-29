@@ -37,7 +37,7 @@ The `Array.toReversed()` method does the same, but returns a new array instead o
 
 ## Sorting
 
-Because arrays in JavaScript can contain any [data type](js_data_types.md), and even different types at the same time, the `Array.sort()` method has to work no matter which types are stored in an array. To do this, it defaults to converting all elements to strings before sorting. This approach works, but has unexpected side effects, for example when sorting numbers:
+Because arrays in JavaScript can contain any [data type](../../basics/js_data_types.md), and even different types at the same time, the `Array.sort()` method has to work no matter which types are stored in an array. To do this, it defaults to converting all elements to strings before sorting. This approach works, but has unexpected side effects, for example when sorting numbers:
 
 ```js
 const myArray = [35, 10, 4, 94, 67];
@@ -49,7 +49,7 @@ This happens, because the numbers get converted to strings before sorting. Then 
 
 ### The compare function
 
-This can be solved by providing a [callback function](js_callbacks.md) to the `Array.sort()` method, which handles, how the individual items should be compared. This specific function is also referred to as **compare function**:
+This can be solved by providing a [callback function](../../async/js_callbacks.md) to the `Array.sort()` method, which handles, how the individual items should be compared. This specific function is also referred to as **compare function**:
 
 ```js
 const myArray = [35, 10, 4, 94, 67];

@@ -3,7 +3,7 @@
 Events are actions that happen on a web page, such as key presses or mouse clicks. [JavaScript](javascript.md) allows to listen for such events and to react to them, for example by running a [function](js_functions.md).
 
 There are three main ways to execute code when an event occurs:
-- Assign a function to the corresponding event [attribute](html_attributes.md) on the [HTML element](html_elements_tags.md) directly (for example `onclick`).
+- Assign a function to the corresponding event [attribute](../../html/html_attributes.md) on the [HTML element](../../html/html_elements_tags.md) directly (for example `onclick`).
 - Set the corresponding properties on a selected [DOM node](js_dom_manipulation.md).
 - Attach event listeners to a selected DOM node.
 
@@ -55,7 +55,7 @@ The `element.addEventListener()` function takes in two required arguments:
 - The event to listen for
 - A function to execute when the event occurs
 
-This function is called a [callback function](js_callbacks.md). This function can be defined somewhere else in the code, or directly as a parameter, as in the above example.
+This function is called a [callback function](../async/js_callbacks.md). This function can be defined somewhere else in the code, or directly as a parameter, as in the above example.
 
 The callback function can also take in a parameter, but doesn't have to. If it takes in a parameter, the event listener passes the event to the function. This allows to gather more information about the event or to call one of its methods: 
 

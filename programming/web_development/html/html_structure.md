@@ -38,7 +38,7 @@ The `<title>` element defines the title of the page, which will also be displaye
 
 ### Link element
 
-The `<link>` element is used to link to different external resources, most commonly used to link to a [CSS](css.md) file which contains styling.
+The `<link>` element is used to link to different external resources, most commonly used to link to a [CSS](../css/css.md) file which contains styling.
 
 ## Body element
 

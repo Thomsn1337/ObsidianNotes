@@ -4,4 +4,4 @@ Front-end developers create the graphical part of a website that will be display
 
 ## Technologies
 
-A front-end developer will mainly use [HTML](html.md), [CSS](css.md) and [JavaScript](javascript.md) to create the layout and the styles of the web pages and to make them interactive. Bigger or more complex projects make use of [frameworks](frameworks.md) to simplify the process of creation.
+A front-end developer will mainly use [HTML](../html/html.md), [CSS](../css/css.md) and [JavaScript](../javascript/basics/javascript.md) to create the layout and the styles of the web pages and to make them interactive. Bigger or more complex projects make use of [frameworks](../../basics/frameworks.md) to simplify the process of creation.

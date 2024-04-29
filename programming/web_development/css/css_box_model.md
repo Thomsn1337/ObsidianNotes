@@ -2,7 +2,7 @@
 
 The box model is a very important concept to understand positioning and layout in [CSS](css.md). Basically, every element on a web page is a rectangular box. Boxes can contain other boxes and can sit alongside other boxes. 
 
-![](box_model.png)
+![](../../../images/box_model.png)
 
 There are different ways to manipulate the size of the boxes, as well as the space between them, by using `padding`, `margin` and `border`:
 

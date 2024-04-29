@@ -1,6 +1,6 @@
 # Emmet
 
-Emmet is a powerful extension available for many text editors and IDEs, which allows to speed up [HTML](html.md) coding by the use of simple snippets. The snippets use [CSS](css.md)-like syntax and can be used to create big and complex nestings of tags really fast. It also allows fast assignment of classes and IDs while writing the snippets. If used properly, Emmet is a really powerful tool which can help code much faster.
+Emmet is a powerful extension available for many text editors and IDEs, which allows to speed up [HTML](../html/html.md) coding by the use of simple snippets. The snippets use [CSS](../css/css.md)-like syntax and can be used to create big and complex nestings of tags really fast. It also allows fast assignment of classes and IDs while writing the snippets. If used properly, Emmet is a really powerful tool which can help code much faster.
 
 ## Examples
 

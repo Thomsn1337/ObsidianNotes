@@ -1,6 +1,6 @@
 # Git
 
-Git is the most widely used [version control](version_control.md) system in the world. It was created by Linus Torvalds, the creator of the [linux](linux.md) kernel, back in 2005. Today, most software projects, both commercial and open source, rely on Git for version control and it integrates well into many operating systems as well as text editors and IDEs.
+Git is the most widely used [version control system](version_control.md) in the world. It was created by Linus Torvalds, the creator of the [Linux](../../linux.md) kernel, back in 2005. Today, most software projects, both commercial and open source, rely on Git for version control and it integrates well into many operating systems as well as text editors and IDEs.
 
 Git is designed on a distributed architecture, meaning that rather than the version history being stored on only one single place, every copy of a repository also contains the history of all changes.
 
