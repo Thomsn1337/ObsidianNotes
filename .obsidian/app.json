@@ -9,5 +9,6 @@
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
   "vimMode": true,
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "newLinkFormat": "relative"
 }
