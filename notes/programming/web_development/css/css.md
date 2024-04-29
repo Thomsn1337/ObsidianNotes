@@ -6,7 +6,7 @@ CSS (Cascading Style Sheets) is a style sheet language primarily used in [web de
 
 CSS is used to define different styling rules. A rule is made up of a **selector** and a list of **properties** and their assigned **values**.
 
-![](../../../images/css_syntax.png)
+![](../../../../images/css_syntax.png)
 
 ### Selectors
 
