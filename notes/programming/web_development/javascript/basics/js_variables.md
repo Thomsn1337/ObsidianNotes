@@ -49,7 +49,7 @@ b = "bye"; // Ok
 c = false; // TypeError: invalid assignment to const 'c'
 ```
 
-`let` and `const` are relatively new methods to declare variables in JavaScript and it's recommended to use them over `var`. Using `var` should be avoided as much as possible.
+`let` and `const` are relatively new methods to declare variables in JavaScript and it's recommended to use them over `var`. Using `var` should be avoided as much as possible. The main reason to use `let` and `const` over `var` is their different [scoping](js_scope.md) behavior.
 
 ## Variable name limitations
 
