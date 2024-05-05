@@ -39,6 +39,7 @@ This repo contains all my personal notes about various topics. They are written 
 			- [The DOM](notes/programming/web_development/html/html_dom.md)
 			- Forms
 				- [HTML forms](notes/programming/web_development/html/forms/html_forms.md)
+				- [Basic form validation](notes/programming/web_development/html/forms/html_form_validation.md)
 		- CSS
 			- [CSS](notes/programming/web_development/css/css.md)
 			- [The box model](notes/programming/web_development/css/css_box_model.md)
