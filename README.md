@@ -50,6 +50,11 @@ This repo contains all my personal notes about various topics. They are written 
 			- [Combinators](notes/programming/web_development/css/css_combinators.md)
 			- [Advanced selectors](notes/programming/web_development/css/css_advanced_selectors.md)
 			- [Flexbox](notes/programming/web_development/css/css_flexbox.md)
+			- Grid
+				- [CSS Grid](notes/programming/web_development/css/grid/css_grid.md)
+				- [Positioning grid items](notes/programming/web_development/css/grid/css_grid_positioning.md)
+				- [Grid item alignment](notes/programming/web_development/css/grid/css_grid_alignment.md)
+				- [Advanced grid properties](notes/programming/web_development/css/grid/css_grid_advanced_properties.md)
 		- JavaScript
 			- Basics
 				- [JavaScript](notes/programming/web_development/javascript/basics/javascript.md)
