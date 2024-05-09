@@ -10,7 +10,7 @@ This repo contains all my personal notes about various topics. They are written 
 		- [Pseudocode](notes/programming/basics/pseudocode.md)
 		- [Clean code](notes/programming/basics/clean_code.md)
 		- [Abstraction](notes/programming/basics/abstraction.md)
-		- [Object oriented programming](notes/programming/basics/object_oriented_programming.md)
+		- [Object-oriented programming](notes/programming/basics/object_oriented_programming.md)
 		- [Encapsulation](notes/programming/basics/encapsulation.md)
 		- [Frameworks](notes/programming/basics/frameworks.md)
 		- Running code
@@ -64,11 +64,17 @@ This repo contains all my personal notes about various topics. They are written 
 				- [Conditionals](notes/programming/web_development/javascript/basics/js_conditionals.md)
 				- [Loops](notes/programming/web_development/javascript/basics/js_loops.md)
 				- [Functions](notes/programming/web_development/javascript/basics/js_functions.md)
+				- [Strict mode](notes/programming/web_development/javascript/basics/js_strict_mode.md)
 				- [Scope](notes/programming/web_development/javascript/basics/js_scope.md)
 				- [DOM manipulation](notes/programming/web_development/javascript/basics/js_dom_manipulation.md)
 				- [Events](notes/programming/web_development/javascript/basics/js_events.md)
 			- Objects
 				- [Objects](notes/programming/web_development/javascript/objects/js_objects.md)
+				- [Object constructors](notes/programming/web_development/javascript/objects/js_object_constructors.md)
+				- [Object prototypes](notes/programming/web_development/javascript/objects/js_object_prototype.md)
+				- [Factory functions](notes/programming/web_development/javascript/objects/js_factory_functions.md)
+				- [The module pattern - IIFE](notes/programming/web_development/javascript/objects/js_iife_modules.md)
+				- [The `this` keyword](notes/programming/web_development/javascript/objects/js_this_keyword.md)
 				- Arrays
 					- [Arrays](notes/programming/web_development/javascript/objects/arrays/js_arrays.md)
 					- [Array methods](notes/programming/web_development/javascript/objects/arrays/js_array_methods.md)
