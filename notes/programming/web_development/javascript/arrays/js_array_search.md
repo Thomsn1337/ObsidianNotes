@@ -34,7 +34,7 @@ fruits.includes("Banana");  // false
 
 ## Array.find()
 
-The `Array.find()` method is used to find a specific element inside an array. It takes in a [callback function](../../async/js_callbacks.md) as its argument, which defines a test. The method returns the first value that passes the test:
+The `Array.find()` method is used to find a specific element inside an array. It takes in a [callback function](../async/js_callbacks.md) as its argument, which defines a test. The method returns the first value that passes the test:
 
 ```js
 const myArray = [3, 7, 13, 25, 33];

@@ -11,7 +11,7 @@ function handleClick() {
 myButton.addEventListener("click", handleClick)
 ```
 
-Callbacks are not exclusive to asynchronous code, synchronous functions can also accept callback functions as parameters. An example for this could be the `forEach` [array](../objects/arrays/js_arrays.md) method:
+Callbacks are not exclusive to asynchronous code, synchronous functions can also accept callback functions as parameters. An example for this could be the `forEach` [array](../arrays/js_arrays.md) method:
 
 ```js
 const myArray = ["one", "two", "three"];

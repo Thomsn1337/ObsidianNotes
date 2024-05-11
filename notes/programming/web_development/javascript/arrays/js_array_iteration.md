@@ -1,6 +1,6 @@
 # Array iteration methods
 
-[Arrays](js_arrays.md) provide iteration methods, which allow to iterate over each element of an array and do something with it. All these methods take in a [callback function](../../async/js_callbacks.md) as argument.
+[Arrays](js_arrays.md) provide iteration methods, which allow to iterate over each element of an array and do something with it. All these methods take in a [callback function](../async/js_callbacks.md) as argument.
 
 ## Array.forEach()
 

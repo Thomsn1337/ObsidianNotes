@@ -4,7 +4,7 @@ Loops allow to execute a block of code repeatedly until a specified condition is
 
 ## The for loop
 
-The `for` loop is mainly used when the amount of iterations (loop cycles) is already known, for example when doing something to every item of a collection like an [array](../objects/arrays/js_arrays.md), or when doing an action for a predefined amount of times.
+The `for` loop is mainly used when the amount of iterations (loop cycles) is already known, for example when doing something to every item of a collection like an [array](../arrays/js_arrays.md), or when doing an action for a predefined amount of times.
 
 The default syntax for a `for` loop looks like this:
 

@@ -68,19 +68,20 @@ This repo contains all my personal notes about various topics. They are written 
 				- [Scope](notes/programming/web_development/javascript/basics/js_scope.md)
 				- [DOM manipulation](notes/programming/web_development/javascript/basics/js_dom_manipulation.md)
 				- [Events](notes/programming/web_development/javascript/basics/js_events.md)
+			- Arrays
+				- [Arrays](notes/programming/web_development/javascript/arrays/js_arrays.md)
+				- [Array methods](notes/programming/web_development/javascript/arrays/js_array_methods.md)
+				- [Array iteration](notes/programming/web_development/javascript/arrays/js_array_iteration.md)
+				- [Array sorting](notes/programming/web_development/javascript/arrays/js_array_sorting.md)
+				- [Array searching](notes/programming/web_development/javascript/arrays/js_array_search.md)
 			- Objects
 				- [Objects](notes/programming/web_development/javascript/objects/js_objects.md)
 				- [Object constructors](notes/programming/web_development/javascript/objects/js_object_constructors.md)
 				- [Object prototypes](notes/programming/web_development/javascript/objects/js_object_prototype.md)
+				- [Getters and setters](notes/programming/web_development/javascript/objects/js_getters_setters.md)
+				- [The `this` keyword](notes/programming/web_development/javascript/objects/js_this_keyword.md)
 				- [Factory functions](notes/programming/web_development/javascript/objects/js_factory_functions.md)
 				- [The module pattern - IIFE](notes/programming/web_development/javascript/objects/js_iife_modules.md)
-				- [The `this` keyword](notes/programming/web_development/javascript/objects/js_this_keyword.md)
-				- Arrays
-					- [Arrays](notes/programming/web_development/javascript/objects/arrays/js_arrays.md)
-					- [Array methods](notes/programming/web_development/javascript/objects/arrays/js_array_methods.md)
-					- [Array iteration](notes/programming/web_development/javascript/objects/arrays/js_array_iteration.md)
-					- [Array sorting](notes/programming/web_development/javascript/objects/arrays/js_array_sorting.md)
-					- [Array searching](notes/programming/web_development/javascript/objects/arrays/js_array_search.md)
 			- Asynchronous code
 				- [Asynchronous code](notes/programming/web_development/javascript/async/js_async_code.md)
 				- [Callbacks](notes/programming/web_development/javascript/async/js_callbacks.md)

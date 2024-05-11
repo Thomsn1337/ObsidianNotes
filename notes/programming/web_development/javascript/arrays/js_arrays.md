@@ -1,10 +1,10 @@
 # Arrays
 
-An array is a fundamental data structure in [JavaScript](../../basics/javascript.md) used to store multiple different values inside of a single variable. Often times they are considered a separate [data type](../../basics/js_data_types.md), but in reality they are a specialized form of [object](../js_objects.md). They behave like traditional arrays in other programming languages, but possess the characteristics of a JavaScript object. This means that they can have properties and methods attached to them, just like regular objects.
+An array is a fundamental data structure in [JavaScript](../basics/javascript.md) used to store multiple different values inside of a single variable. Often times they are considered a separate [data type](../basics/js_data_types.md), but in reality they are a specialized form of [object](../objects/js_objects.md). They behave like traditional arrays in other programming languages, but possess the characteristics of a JavaScript object. This means that they can have properties and methods attached to them, just like regular objects.
 
 ## Using arrays
 
-Arrays are used to store larger amounts of related data inside of a single [variable](../../basics/js_variables.md) instead of using a separate variable for each value:
+Arrays are used to store larger amounts of related data inside of a single [variable](../basics/js_variables.md) instead of using a separate variable for each value:
 
 ```js
 // Instead of this...
@@ -58,7 +58,7 @@ myArray[0]["age"]; // Output: 25
 Arrays have many different methods to interact with them. They can be categorized into [common methods](js_array_methods.md), [searching methods](js_array_search.md), [sorting methods](js_array_sorting.md) and [iteration methods](js_array_iteration.md).
 
 > [!note] Callback functions
-> Some array methods take in [callback functions](../../async/js_callbacks.md) as arguments. By default these functions expect three arguments:
+> Some array methods take in [callback functions](../async/js_callbacks.md) as arguments. By default these functions expect three arguments:
 > 
 > - The item value
 > - The item index
