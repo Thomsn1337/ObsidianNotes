@@ -79,6 +79,7 @@ This repo contains all my personal notes about various topics. They are written 
 				- [Object constructors](notes/programming/web_development/javascript/objects/js_object_constructors.md)
 				- [Object prototypes](notes/programming/web_development/javascript/objects/js_object_prototype.md)
 				- [Getters and setters](notes/programming/web_development/javascript/objects/js_getters_setters.md)
+				- [Classes](notes/programming/web_development/javascript/objects/js_classes.md)
 				- [The `this` keyword](notes/programming/web_development/javascript/objects/js_this_keyword.md)
 				- [Factory functions](notes/programming/web_development/javascript/objects/js_factory_functions.md)
 				- [The module pattern - IIFE](notes/programming/web_development/javascript/objects/js_iife_modules.md)
