@@ -1,5 +1,5 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "newFileLocation": "current",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
