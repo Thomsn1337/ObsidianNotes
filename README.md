@@ -68,6 +68,7 @@ This repo contains all my personal notes about various topics. They are written 
 				- [Scope](notes/programming/web_development/javascript/basics/js_scope.md)
 				- [DOM manipulation](notes/programming/web_development/javascript/basics/js_dom_manipulation.md)
 				- [Events](notes/programming/web_development/javascript/basics/js_events.md)
+				- [ES6 Modules](notes/programming/web_development/javascript/basics/js_modules.md)
 			- Arrays
 				- [Arrays](notes/programming/web_development/javascript/arrays/js_arrays.md)
 				- [Array methods](notes/programming/web_development/javascript/arrays/js_array_methods.md)
@@ -87,5 +88,11 @@ This repo contains all my personal notes about various topics. They are written 
 				- [Asynchronous code](notes/programming/web_development/javascript/async/js_async_code.md)
 				- [Callbacks](notes/programming/web_development/javascript/async/js_callbacks.md)
 				- [Promises](notes/programming/web_development/javascript/async/js_promises.md)
+			- Tools
+				- [npm](notes/programming/web_development/javascript/tools/npm.md)
+				- [Bundlers](notes/programming/web_development/javascript/tools/bundling.md)
+					- [Webpack](notes/programming/web_development/javascript/tools/webpack.md)
+				- [Prettier](notes/programming/web_development/javascript/tools/prettier.md)
+				- [ESLint](notes/programming/web_development/javascript/tools/eslint.md)
 	- Tools
 		- [Emmet](notes/programming/web_development/tools/emmet.md)
