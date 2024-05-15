@@ -1,6 +1,6 @@
 # Back-end development
 
-Back-end developers create the server-side components and functionalities that power a website or web application in the background. Their tasks include data management, server architecture design, API development and ensurance of security and scalability of the server infrastructure.
+Back-end developers create the server-side components and functionalities that power a website or web application in the background. Their tasks include data management, server architecture design, [API](../../software_design_and_principles/apis.md) development and assurance of security and scalability of the server infrastructure.
 
 ## Technologies
 
