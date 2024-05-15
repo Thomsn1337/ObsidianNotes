@@ -8,7 +8,7 @@ The `<form>` element is a simple container element similar to the `<div>` elemen
 
 The `action` attribute takes an URL as its value and tells the form where the entered data should be sent to so it can be processed.
 
-The `method` attribute defines which type of [HTTP request](../../http_requests.md) should be performed.
+The `method` attribute defines which type of [HTTP request](../../../software_design_and_principles/http_requests.md) should be performed.
 
 Since the `<form>` element is only a container, it needs some additional elements that allow the user to interact and to enter data. Such elements can be text boxes, dropdowns, checkboxes or buttons.
 

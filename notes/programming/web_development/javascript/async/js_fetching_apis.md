@@ -32,7 +32,7 @@ Because this method is so tedious to use, it's not recommended anymore, but can 
 
 Because `XMLHttpRequest` is so tedious to use, developers began to create 3rd-party alternatives to make it much easier to use.
 
-Recently, JavaScript introduced another native way make [HTTP requests](../../http_requests.md) which is called `fetch`.
+Recently, JavaScript introduced another native way make [HTTP requests](../../../software_design_and_principles/http_requests.md) which is called `fetch()`.
 
 ```js
 fetch("https://url.com/api")
@@ -46,13 +46,13 @@ fetch("https://url.com/api")
 	});
 ```
 
-While the old `XMLHttpRequest` method was [callback](js_callbacks.md)-based, the `fetch` method is basically a [promise](js_promises.md).
+While the old `XMLHttpRequest` method was [callback](js_callbacks.md)-based, the `fetch()` method is basically a [promise](js_promises.md).
 
 ### Enabling CORS
 
-By default, the browser will block such requests to outside sources for security reasons. This can be fixed by telling the `fetch` method to create a request in [CORS](../../../software_design_and_principles/cors.md)-mode.
+By default, the browser will block such requests to outside sources for security reasons. This can be fixed by telling the `fetch()` method to create a request in [CORS](../../../software_design_and_principles/cors.md)-mode.
 
-The `fetch` method takes in the URL for the request as first mandatory argument. It can also take in a second optional argument: an object which is used to set different parameters like the request type, headers...
+The `fetch()` method takes in the URL for the request as first mandatory argument. It can also take in a second optional argument: an object which is used to set different parameters like the request type, headers...
 
 This object can also be used to define the operation mode of the request to CORS.
 
@@ -60,4 +60,23 @@ This object can also be used to define the operation mode of the request to CORS
 fetch("https://url.com/api", {
 	mode: "cors"
 });
+```
+
+### Working with the response
+
+The `fetch()` method returns a promise that resolves with the response of the request. However, the response is an object containing more information than just the [JSON](../../json/json.md) response body, it represents the entire HTTP response. 
+
+To extract the JSON body from the response object, the `json()` method can be used. This method returns a second promise that resolves with the result of parsing the response body as JSON and outputting it as object.
+
+```js
+fetch("https://url.com/api")
+	.then((response) => {
+		return response.json();
+	})
+	.then((response) => {
+		// work with the response
+	})
+	.catch((error) => {
+		// handle the error
+	})
 ```
