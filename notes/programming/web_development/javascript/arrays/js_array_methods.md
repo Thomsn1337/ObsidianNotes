@@ -69,22 +69,22 @@ console.log(newLenght);  // 4
 
 These methods behave like `Array.push()` and `Array.pop()`, but they operate at the start of the array.
 
-The `Array.shift()` method inserts a new element at the start of the array and (optionally) returns the new length:
+The `Array.shift()` method removes the first element of the array and (optionally) returns its value:
 
 ```js
 const fruits = ["Apple", "Banana", "Orange"];
-fruits.shift("Kiwi");
-
-console.log(fruits); // [ "Kiwi", "Apple", "Banana", "Orange" ]
-```
-
-The `Array.unshift()` method removes the first element of the array and (optionally) returns its value:
-
-```js
-const fruits = ["Apple", "Banana", "Orange"];
-fruits.unshift();
+fruits.shift();
 
 console.log(fruits): // [ "Banana", "Orange" ]
+```
+
+The `Array.unshift()` method inserts a new element at the start of the array and (optionally) returns the new length:
+
+```js
+const fruits = ["Apple", "Banana", "Orange"];
+fruits.unshift("Kiwi");
+
+console.log(fruits); // [ "Kiwi", "Apple", "Banana", "Orange" ]
 ```
 
 ## Array.splice() and Array.slice()
