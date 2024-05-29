@@ -1,6 +1,6 @@
 # Sorting algorithms
 
-Sorting algorithms are a type of [algorithm](../dsa_algorithms.md) which commonly take in some sort of array or list as input and arrange the list items in a particular order. Typically, data is sorted in numerical order, either ascending or descending.
+Sorting algorithms are a type of [algorithm](../dsa_algorithms.md) which commonly take in some sort of [array](../../dsa_data_structures/dsa_array.md) or list as input and arrange the list items in a particular order. Typically, data is sorted in numerical order, either ascending or descending.
 
 Sorting algorithms are often times essential for performance optimization of other algorithms. They allow to manage data in an organized manner, which allows for easier search, analysis and processing of data.
 

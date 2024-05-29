@@ -1,6 +1,6 @@
 # Merge sort
 
-Merge sort is an efficient comparison-based [sorting algorithm](dsa_sorting_algorithms.md). It sorts the dataset, generally stored in an array, by [recursively](../dsa_recursion.md) splitting it into smaller sub-arrays, sorting them and merging them back together.
+Merge sort is an efficient comparison-based [sorting algorithm](dsa_sorting_algorithms.md). It sorts the dataset, generally stored in an [array](../../dsa_data_structures/dsa_array.md), by [recursively](../dsa_recursion.md) splitting it into smaller sub-arrays, sorting them and merging them back together.
 
 The sub-arrays are split up further, until they are of either length 0 or 1, since empty arrays and single values are already considered sorted. The two sorted halves are then merged back together to produce a single sorted array.
 

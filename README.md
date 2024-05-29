@@ -35,12 +35,18 @@ This repo contains all my personal notes about various topics. They are written 
 				- [Hashing algorithms](notes/programming/computer_science/dsa/dsa_algorithms/dsa_hashing.md)
 			- Data structures
 				- [Data structures](notes/programming/computer_science/dsa/dsa_data_structures/dsa_data_structures.md)
+				- [Arrays](notes/programming/computer_science/dsa/dsa_data_structures/dsa_array.md)
+				- [Linked lists](notes/programming/computer_science/dsa/dsa_data_structures/dsa_linked_lists.md)
 	- Databases
 		- [Databases](notes/programming/databases/databases.md)
 	- Software design and principles
 		- [APIs](notes/programming/software_design_and_principles/apis.md)
 		- [CORS](notes/programming/software_design_and_principles/cors.md)
 		- [HTTP requests](notes/programming/software_design_and_principles/http_requests.md)
+	- Tools
+		- [Code formatters](notes/programming/tools/code_formatter.md)
+		- [Linters](notes/programming/tools/linter.md)
+		- [Package managers](notes/programming/tools/package_manager.md)
 	- Version control
 		- [Version control](notes/programming/version_control/version_control.md)
 		- [Git](notes/programming/version_control/git.md)
@@ -113,5 +119,5 @@ This repo contains all my personal notes about various topics. They are written 
 					- [Webpack](notes/programming/web_development/javascript/tools/webpack.md)
 				- [Prettier](notes/programming/web_development/javascript/tools/prettier.md)
 				- [ESLint](notes/programming/web_development/javascript/tools/eslint.md)
-	- Tools
-		- [Emmet](notes/programming/web_development/tools/emmet.md)
+		- Tools
+			- [Emmet](notes/programming/web_development/tools/emmet.md)

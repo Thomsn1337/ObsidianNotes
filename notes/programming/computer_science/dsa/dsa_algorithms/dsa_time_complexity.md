@@ -86,7 +86,7 @@ This graph displays how each of these complexities scale.
 
 ### Constant complexity
 
-Constant complexity simply means that an algorithm will always take the same amount of time, independent of the input data size. The simplest way to represent this is accessing an item in an array.
+Constant complexity simply means that an algorithm will always take the same amount of time, independent of the input data size. The simplest way to represent this is accessing an item in an [array](../dsa_data_structures/dsa_array.md).
 
 ```js
 const arr = [1, 2, 3, 4, 5, 6];
