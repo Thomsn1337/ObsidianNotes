@@ -20,8 +20,27 @@ This repo contains all my personal notes about various topics. They are written 
 		- Bugs
 			- [Bugs](notes/programming/basics/bugs/bug.md)
 			- [Debugger](notes/programming/basics/bugs/debugger.md)
+	- Computer Science
+		- Algorithms and Data structures
+			- Algorithms
+				- [Algorithms](notes/programming/computer_science/dsa/dsa_algorithms/dsa_algorithms.md)
+				- [Recursion](notes/programming/computer_science/dsa/dsa_algorithms/dsa_recursion.md)
+				- [Time complexity](notes/programming/computer_science/dsa/dsa_algorithms/dsa_time_complexity.md)
+				- Sorting algorithms
+					- [Sorting algorithms](notes/programming/computer_science/dsa/dsa_algorithms/dsa_sorting/dsa_sorting_algorithms.md)
+					- [Merge sort](notes/programming/computer_science/dsa/dsa_algorithms/dsa_sorting/dsa_merge_sort.md)
+				- Search algorithms
+					- [Search algorithms](notes/programming/computer_science/dsa/dsa_algorithms/dsa_searching/dsa_search_algorithms.md)
+					- [Binary search](notes/programming/computer_science/dsa/dsa_algorithms/dsa_searching/dsa_binary_search.md)
+				- [Hashing algorithms](notes/programming/computer_science/dsa/dsa_algorithms/dsa_hashing.md)
+			- Data structures
+				- [Data structures](notes/programming/computer_science/dsa/dsa_data_structures/dsa_data_structures.md)
 	- Databases
 		- [Databases](notes/programming/databases/databases.md)
+	- Software design and principles
+		- [APIs](notes/programming/software_design_and_principles/apis.md)
+		- [CORS](notes/programming/software_design_and_principles/cors.md)
+		- [HTTP requests](notes/programming/software_design_and_principles/http_requests.md)
 	- Version control
 		- [Version control](notes/programming/version_control/version_control.md)
 		- [Git](notes/programming/version_control/git.md)
