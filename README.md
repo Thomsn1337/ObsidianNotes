@@ -37,6 +37,8 @@ This repo contains all my personal notes about various topics. They are written 
 				- [Data structures](notes/programming/computer_science/dsa/dsa_data_structures/dsa_data_structures.md)
 				- [Arrays](notes/programming/computer_science/dsa/dsa_data_structures/dsa_array.md)
 				- [Linked lists](notes/programming/computer_science/dsa/dsa_data_structures/dsa_linked_lists.md)
+				- [Queues](notes/programming/computer_science/dsa/dsa_data_structures/dsa_queue.md)
+				- [Stacks](notes/programming/computer_science/dsa/dsa_data_structures/dsa_stack.md)
 	- Databases
 		- [Databases](notes/programming/databases/databases.md)
 	- Software design and principles
